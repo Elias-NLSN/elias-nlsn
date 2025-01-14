@@ -1,5 +1,4 @@
-Yeah idk what to put in here
+Learning GitHub and how to code
+pretty fun so far...
 
-
-
-I do stuff though
+Thats it for now!
